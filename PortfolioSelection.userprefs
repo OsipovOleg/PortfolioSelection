@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="PortfolioSelection/PortfolioSelection.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PortfolioSelection/MainForm.Designer.cs">
+    <Files>
+      <File FileName="PortfolioSelection/ChartForm.cs" Line="1" Column="1" />
+      <File FileName="PortfolioSelection/Computation.cs" Line="1" Column="1" />
+      <File FileName="PortfolioSelection/Program.cs" Line="1" Column="1" />
+      <File FileName="PortfolioSelection/Matrix.cs" Line="1" Column="1" />
+      <File FileName="../../../../../../usr/lib/mono/4.5/Microsoft.Common.targets" Line="1" Column="1" />
+      <File FileName="PortfolioSelection/MainForm.resx" Line="1" Column="1" />
+      <File FileName="PortfolioSelection/MainForm.Designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

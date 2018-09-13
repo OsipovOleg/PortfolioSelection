@@ -1,0 +1,19 @@
+C:/Users/Олег/AppData/Local/Temporary Projects/PortfolioSelection/bin/Debug/PortfolioSelection.exe
+C:/Users/Олег/AppData/Local/Temporary Projects/PortfolioSelection/bin/Debug/PortfolioSelection.pdb
+C:/Users/Олег/AppData/Local/Temporary Projects/PortfolioSelection/obj/x86/Debug/PortfolioSelection.MainForm.resources
+C:/Users/Олег/AppData/Local/Temporary Projects/PortfolioSelection/obj/x86/Debug/PortfolioSelection.Properties.Resources.resources
+C:/Users/Олег/AppData/Local/Temporary Projects/PortfolioSelection/obj/x86/Debug/PortfolioSelection.csproj.GenerateResource.Cache
+C:/Users/Олег/AppData/Local/Temporary Projects/PortfolioSelection/obj/x86/Debug/PortfolioSelection.exe
+C:/Users/Олег/AppData/Local/Temporary Projects/PortfolioSelection/obj/x86/Debug/PortfolioSelection.pdb
+C:/Users/Олег/Documents/Visual Studio 2010/Projects/PortfolioSelection/PortfolioSelection/obj/x86/Debug/PortfolioSelection.exe
+C:/Users/Олег/Documents/Visual Studio 2010/Projects/PortfolioSelection/PortfolioSelection/obj/x86/Debug/PortfolioSelection.pdb
+C:/Users/Олег/Documents/Visual Studio 2010/Projects/PortfolioSelection/PortfolioSelection/bin/Debug/PortfolioSelection.exe
+C:/Users/Олег/Documents/Visual Studio 2010/Projects/PortfolioSelection/PortfolioSelection/bin/Debug/PortfolioSelection.pdb
+C:/Users/Олег/Documents/Visual Studio 2010/Projects/PortfolioSelection/PortfolioSelection/obj/x86/Debug/PortfolioSelection.MainForm.resources
+C:/Users/Олег/Documents/Visual Studio 2010/Projects/PortfolioSelection/PortfolioSelection/obj/x86/Debug/PortfolioSelection.Properties.Resources.resources
+C:/Users/Олег/Documents/Visual Studio 2010/Projects/PortfolioSelection/PortfolioSelection/obj/x86/Debug/PortfolioSelection.csproj.GenerateResource.Cache
+C:/Users/Олег/Documents/Visual Studio 2010/Projects/PortfolioSelection/PortfolioSelection/obj/x86/Debug/PortfolioSelection.ChartForm.resources
+/home/oleg/Documents/Researches/Programs and sumulation models/PortfolioSelection/PortfolioSelection/obj/x86/Debug/PortfolioSelection.csprojResolveAssemblyReference.cache
+/home/oleg/Documents/Researches/Programs and sumulation models/PortfolioSelection/PortfolioSelection/obj/x86/Debug/PortfolioSelection.ChartForm.resources
+/home/oleg/Documents/Researches/Programs and sumulation models/PortfolioSelection/PortfolioSelection/obj/x86/Debug/PortfolioSelection.Properties.Resources.resources
+/home/oleg/Documents/Researches/Programs and sumulation models/PortfolioSelection/PortfolioSelection/obj/x86/Debug/PortfolioSelection.csproj.GenerateResource.cache
